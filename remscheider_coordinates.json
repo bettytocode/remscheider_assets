@@ -1,0 +1,44 @@
+{
+	"offices": [
+			{
+				"address": "Markt 2-6, 42853 Remscheid", 
+				"id": "barbeya", 
+				"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88", 
+				"lat": 51.179754, 
+				"lng": 7.194382, 
+				"name": "BarBeya", 
+				"phone": "", 
+				"region": "remscheid"
+				}, 
+				{
+				"address": "Freiheitstraße 22, 42853 Remscheid", 
+				"id": "yaprak", 
+				"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88", 
+				"lat": 51.178005, 
+				"lng": 7.196848, 
+				"name": "Yaprak Doener",
+				"phone": "", 
+				"region": "remscheid"
+			} 
+		], 
+	"regions": [
+			{
+				"coords": {"lat": 2.9660291, "lng": 1.3271339}, 
+				"id": "africa-middle-east", 
+				"name": "Afrika und Naher Osten", 
+				"zoom": 3.0
+			}, 
+			{
+				"coords": {"lat": 51.1786099, "lng": 7.1795475}, 
+				"id": "remscheid", 
+				"name": "Remscheid", 
+				"zoom": 4.0
+			}, 
+			{
+				"coords": {"lat": 46.1352815, "lng": 7.4033438}, 
+				"id": "europe", 
+				"name": "Europa", 
+				"zoom": 4.0
+			}
+		]
+}
